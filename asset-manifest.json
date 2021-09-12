@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/covid-defeat-app/static/css/main.e4ab5743.chunk.css",
+    "main.js": "/covid-defeat-app/static/js/main.64bdfd81.chunk.js",
+    "main.js.map": "/covid-defeat-app/static/js/main.64bdfd81.chunk.js.map",
+    "runtime-main.js": "/covid-defeat-app/static/js/runtime-main.96a480ea.js",
+    "runtime-main.js.map": "/covid-defeat-app/static/js/runtime-main.96a480ea.js.map",
+    "static/css/2.6293a573.chunk.css": "/covid-defeat-app/static/css/2.6293a573.chunk.css",
+    "static/js/2.bf26f0f6.chunk.js": "/covid-defeat-app/static/js/2.bf26f0f6.chunk.js",
+    "static/js/2.bf26f0f6.chunk.js.map": "/covid-defeat-app/static/js/2.bf26f0f6.chunk.js.map",
+    "index.html": "/covid-defeat-app/index.html",
+    "static/css/2.6293a573.chunk.css.map": "/covid-defeat-app/static/css/2.6293a573.chunk.css.map",
+    "static/css/main.e4ab5743.chunk.css.map": "/covid-defeat-app/static/css/main.e4ab5743.chunk.css.map",
+    "static/js/2.bf26f0f6.chunk.js.LICENSE.txt": "/covid-defeat-app/static/js/2.bf26f0f6.chunk.js.LICENSE.txt",
+    "static/media/agency-1.71b8f5ce.svg": "/covid-defeat-app/static/media/agency-1.71b8f5ce.svg",
+    "static/media/c.27b08300.svg": "/covid-defeat-app/static/media/c.27b08300.svg",
+    "static/media/checklist.0351c7e3.png": "/covid-defeat-app/static/media/checklist.0351c7e3.png",
+    "static/media/inj.6ea3b5e6.png": "/covid-defeat-app/static/media/inj.6ea3b5e6.png",
+    "static/media/svgback.3f3cb9a5.svg": "/covid-defeat-app/static/media/svgback.3f3cb9a5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96a480ea.js",
+    "static/css/2.6293a573.chunk.css",
+    "static/js/2.bf26f0f6.chunk.js",
+    "static/css/main.e4ab5743.chunk.css",
+    "static/js/main.64bdfd81.chunk.js"
+  ]
+}

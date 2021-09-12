@@ -5,14 +5,21 @@ import Home from './component/home/Home';
 import Instruction from './component/instruction/Instruction'
 import Report from './component/Report/Report';
 import SlotAv  from './component/Slots/SlotAv'
-import {Switch , Route, Redirect} from 'react-router-dom'
+import {Switch , Route} from 'react-router-dom'
 import Navbar from './component/navbar/Navbar';
 import District from '../src/component/Slots/Pages/District'
 import Pincode from './component/Slots/Pages/Pincode'
+
+import HowItWorks from './component/HowItWorks/HowItWorks';
+import About from './component/about/About';
+import Footer from './component/Footer/Footer';
+// import HowItWorks from './component/HowItWorks/HowItWorks';
+// import Footer from './component/Footer/Footer';
 const App = () =>{
   return(
-    <>
+    <div>
     <Navbar />
+    
     {/* navbar is another component so we will import outside of switch . */}
 <Switch>
   <Route exact path="/" component={Home} />
@@ -23,7 +30,10 @@ const App = () =>{
   <Route path="/district" component={District} />
   <Route path="/pincode" component={Pincode} />
 </Switch>
-    </>
+<HowItWorks />
+<About />
+<Footer />
+    </div>
   )
 }
 

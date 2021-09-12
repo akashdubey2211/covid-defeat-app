@@ -1,5 +1,8 @@
 .header-section{
-    margin-top: 4rem;
+    margin-top: 2rem;
+}
+#header{
+    margin-top: 2rem;
 }
 .btn-register{
     background-color: white ; /* Green */
@@ -48,10 +51,10 @@
     float:left;
   
 }
-.swing img {
+/* .swing img {
  
     display: block;
-}
+} */
 .swing:after{
     content: '';
     position: absolute;  

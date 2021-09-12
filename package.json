@@ -2,6 +2,10 @@
   "name": "covid-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "v15.14.0",
+    "npm": "7.7.6"
+  },
   "dependencies": {
     "@date-io/date-fns": "^2.11.0",
     "@material-ui/core": "^4.12.3",
@@ -20,6 +24,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "react-tilt": "^0.1.4",
+    "sass": "^1.39.2",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
